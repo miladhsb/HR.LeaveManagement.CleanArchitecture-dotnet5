@@ -1,5 +1,6 @@
 <div class="text-center alert alert-dark">
-    ![image](https://user-images.githubusercontent.com/88437807/181776025-c4a604d3-0400-478f-8692-30fc4a7816a0.png)
+  
+<img width="200" alt="clean-architecture-dotnet" src="https://user-images.githubusercontent.com/88437807/181776434-fdb56f61-621b-4726-955a-e8b49aaef2a2.png">
 
 </div>
 <div data-purpose="safely-set-inner-html:description:description">
